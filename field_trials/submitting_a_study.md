@@ -214,9 +214,10 @@ These include:
 We can take advantage of these to present the information as graphical heatmaps for each of these numeric phenotypes. 
 In our example here, our plant height phenotype is numeric and produces a heatmap similar to the one below
 
-![The heatmap for the the plat height phenotype](images/plots_heatmap_1.png  "Plots Heatmap View")
+![The heatmap for the the plant height phenotype](images/plots_heatmap_1.png  "Plots Heatmap View")
 
 Each Plot in our study is represented by the corresponding rectangle in the heatmap. 
 The colour of each of these denotes the Plot's value, ranging from light colours for the lower values to darker colours for the higher values. 
 Hovering your cursor over any of these rectangles produces a pop-up showing the value along with some of the Plot's other metadata.
 
+![The heatmap for the the plant height phenotype with an information pop-up](images/plots_heatmap_2.png  "Plots Heatmap View with pop-up")
